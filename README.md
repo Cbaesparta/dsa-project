@@ -1,6 +1,6 @@
 # Music Player Using Data Structures
 
-This project is a C++ based **Music Player**, developed as part of the **Data Structures and Algorithms (CSE2003)** course. It demonstrates the practical application of core data structures to build a functional music player with features such as playlist management, song navigation, and history tracking.
+This project is a C++ based **Music Player**, developed as part of the **Data Structures and Algorithms**. It demonstrates the practical application of core data structures to build a functional music player with features such as playlist management, song navigation, and history tracking.
 
 The project uses **doubly linked lists, stacks, queues, and file handling** to organize and manipulate songs efficiently.
 
